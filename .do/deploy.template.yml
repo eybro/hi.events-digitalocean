@@ -6,7 +6,7 @@ spec:
       http_port: 80
       git:
         repo_clone_url: https://github.com/HiEventsDev/hi.events-digitalocean.git
-        branch: main
+        branch: v0.8.x
       envs:
         - key: APP_KEY
           scope: RUN_TIME
